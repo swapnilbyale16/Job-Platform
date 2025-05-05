@@ -4,3 +4,64 @@
 
 expo-env.d.ts
 # @end expo-cli
+node_modules
+
+# React Native
+node_modules/
+*.log
+*.tmp
+*.temp
+npm-debug.*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.expo/
+.expo-shared/
+
+# Metro bundler
+dist/
+build/
+.cache/
+expo-settings.json
+
+# macOS
+.DS_Store
+
+# Android
+android/.gradle
+android/app/build/
+android/.idea
+android/local.properties
+android/.settings/
+android/.cxx/
+android/build/
+
+# Gradle
+.gradle/
+build/
+*.iml
+
+# IntelliJ/JetBrains
+.idea/
+*.iml
+
+# Bundled assets
+*.bundle
+*.jsbundle
+
+# Test outputs
+coverage/
+jest-output/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Misc
+.env
+.env.local
+.env.*.local
+
+# Uncomment if using Firebase
+firebase-debug.log

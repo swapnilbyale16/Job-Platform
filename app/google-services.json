@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552942086368",
+    "project_id": "job-search-platform-2f5c6",
+    "storage_bucket": "job-search-platform-2f5c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552942086368:android:89e59222cc11cb308d4885",
+        "android_client_info": {
+          "package_name": "com.swapnilbyale.jobsearchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAVwxbpk88Nmx3_zLjf2GXNGJrWmVqIzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
